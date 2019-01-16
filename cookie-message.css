@@ -1,0 +1,29 @@
+.msg-box {
+  bottom: 0;
+  position: fixed;
+  z-index: 99;
+  display: none;
+  width: 100%;
+  height: auto;
+}
+
+.msg-box button {
+  background-color: black;
+  color: white;
+  border: none;
+  text-align: center;
+  font-size: 10px;
+  width: 100%;
+  height: auto;
+}
+
+.ok-btn {
+  padding-top: 30px;
+  background-color: black;
+  border-radius: 20px;
+  font-size: 15px;
+  padding: 7px;
+  color: red;
+  border-radius: 4px;
+  box-shadow: 4px 4px red;
+}
